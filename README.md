@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm H20 STUDIO!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+Gw bukan hacker tod hanya manusia biasa noob dalam segala hal, <img src="https://img.shields.io/badge/Linux-v5.1.3-blue" />
 
 ### Tools:
 <p>
@@ -27,7 +27,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
+    <a href="https://Youtube" target="blank"><img src="https://img.shields.io/badge/Youtube-https%3A%2F%2Fwww.youtube.com%2Fc%2FHendarOfficial1-blue?style=plastic&logo=appveyor" /></a>
     <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
     <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
