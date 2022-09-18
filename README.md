@@ -26,6 +26,7 @@ Gw bukan hacker tod hanya manusia biasa noob dalam segala hal, ayo belajar baren
     <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
+### Stat
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=h20-studio&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h20-studio&layout=compact" height=180 />
