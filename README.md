@@ -10,7 +10,7 @@ Gw bukan hacker tod hanya manusia biasa noob dalam segala hal, ayo belajar baren
 <p>
     <img src="https://img.shields.io/badge/Linux-v5.1.3-blue" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
+    <img src="![Profile views](https://gpvc.arturio.dev/[h20-studio]" />
 </p>
 
 ### Stats:
