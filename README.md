@@ -1,5 +1,10 @@
 # Hi there 👋 , I'm H20 STUDIO!
-Gw bukan hacker tod hanya manusia biasa noob dalam segala hal, <img src="https://img.shields.io/badge/Linux-v5.1.3-blue" />
+Gw bukan hacker tod hanya manusia biasa noob dalam segala hal, ayo belajar bareng-bareng.
+
+### I’m Interested:
+<p>
+    <img src="https://img.shields.io/badge/Python-v3.7-blue?style=plastic&logo=appveyor" />
+    <img src="https://img.shields.io/badge/PHP-5.3%20--%207.4-blue?style=plastic&logo=appveyor" />
 
 ### Tools:
 <p>
