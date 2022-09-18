@@ -25,7 +25,6 @@ Gw bukan hacker tod hanya manusia biasa noob dalam segala hal, ayo belajar baren
 </p>
 
 ### Stats:
-<details>
  <summary><strong>What i am learning/working on these days</strong></summary>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=h20-studio&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
