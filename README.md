@@ -21,9 +21,6 @@ Gw bukan hacker tod hanya manusia biasa noob dalam segala hal, ayo belajar baren
     <a href="https://www.youtube.com/c/HendarOfficial1" target="blank"><img src="https://img.shields.io/badge/YOUTUBE%3A-H20%20STUDIO-red" /></a>
     <img src="https://img.shields.io/youtube/channel/subscribers/UCzl4me0YC0wS6CW94Al4wJQ?style=social" /><br>
     <a href="https://wa.me/6285724875555?text=Halo%20gw%20real%20pemilik%20channel%20H20%20STUDIO" target="blank"><img src="https://img.shields.io/badge/Whatsapp-Klik%20untuk%20hubungi%20gw-green" /></a></br>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
 ### Stat
