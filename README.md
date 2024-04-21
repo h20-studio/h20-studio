@@ -1,6 +1,5 @@
-# Hi there 👋 , I'm H20 STUDIO!
-Gw bukan hacker tod hanya manusia biasa noob dalam segala hal, ayo belajar bareng-bareng.
-
+# Hi there 👋 , I'm Cerita Islami ID (H20 STUDIO)!
+Bukan suhu, mari kita belajar bareng 😊
 
 ### I’m Interested:
 <p>
