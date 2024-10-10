@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Cerita Islami ID (H20 STUDIO)!
+# Hi there 👋 , I'm H20 STUDIO!
 Bukan suhu, mari kita belajar bareng 😊
 
 ### I’m Interested:
